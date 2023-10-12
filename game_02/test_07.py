@@ -1,5 +1,5 @@
 
-import pygame
+import pygampe
 import random
 
 import constants
